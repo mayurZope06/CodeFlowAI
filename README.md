@@ -39,7 +39,7 @@ Whether you're a seasoned developer or just starting out, CodeFlow AI streamline
 
 ## 🌐 Live Demo
 
-Ready to experience CodeMind AI in action? Check out our live demo:
+Ready to experience CodeFlow AI in action? Check out our live demo:
 
 👉 **[Live Demo](https://code-flow-ai-mty.vercel.app/)**
 
